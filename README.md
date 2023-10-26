@@ -9,7 +9,7 @@ I'm Kenneth Zhang, A BMath Data Science student at the University of Waterloo.
 - :computer: Most used line of code: `tensor.requires_grad_(True)`
 - 🤔 I’m looking for help with Graph Neural Networks and Attention Networks.
 - 📫 How to reach me: kzhang138@gmail.com
-- ⚡ Fun fact: I'm currently studying Natural Language Processing & Graph Theory
+- ⚡ Next Steps: I'm currently studying Natural Language Processing & Graph Theory
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
