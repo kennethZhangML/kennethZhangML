@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## Hi I'm Kenneth <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="12px" alt="hi">
 
 I'm Kenneth Zhang, A BMath Data Science student at the University of Waterloo.
@@ -26,9 +30,5 @@ I'm Kenneth Zhang, A BMath Data Science student at the University of Waterloo.
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![R](https://img.shields.io/badge/R-%230C55A5.svg?style=for-the-badge&logo=R&logoColor=%blue)
 
-#### Github Stats
-
-![kennethZhangML's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethZhangML&count_private=true&show_icons=true&theme=tokyonight)
-
-#### Commit Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kennethZhangML&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=kennethZhangML&theme=shades-of-purple)](https://git.io/streak-stats)
