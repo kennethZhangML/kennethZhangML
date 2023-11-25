@@ -9,12 +9,10 @@ I'm Kenneth Zhang, A BMath Data Science student at the University of Waterloo.
 :mailbox: Reach out to me!
 [![Linkedin Badge](https://img.shields.io/badge/-Kenneth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethzhang04/) [![Mail Badge](https://img.shields.io/badge/-kzhang138-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kzhang138@gmail.com)[![](https://img.shields.io/badge/Google%20Scholar-blue?style=flat-square&logo=github&logoColor=white)](https://scholar.google.com/citations?user=zn76alwAAAAJ&hl=en)
 
-- 🔭 I’m currently working on **Plurigrid Inc.**.
+- Founding Engineer @ **Plurigrid Inc.**.
 - Contract ML Engineer @ OpenAI LLC, 2023
-- :computer: Most used line of code: `tensor.requires_grad_(True)`
-- 🤔 I’m looking for help with Graph Neural Networks and Attention Networks.
-- 📫 How to reach me: kzhang138@gmail.com
-- ⚡ Next Steps: I'm currently studying Natural Language Processing & Graph Theory
+- Email: kzhang138@gmail.com
+- Research Focus: Large Language Models and Zero-Shot Knowledge Transfer for Multilingual Translation
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
