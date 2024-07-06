@@ -11,7 +11,11 @@ I'm Kenneth Zhang, A BCS student at the University of Waterloo.
 
 - Current Position: Quant @ Rothschild & Co.
 - Email: kzhang138@gmail.com
-- Research Focus: Options Pricing and Stochastic Processes, Large Language Models and Zero-Shot Knowledge Transfer for Multilingual Translation
+- Research Focuses:
+  1. Options Pricing and Volatility Modelling
+  2. Time-Series Analysis and ML-Driven Indicator Engineering
+  3. Fixed-Income Securities Modelling
+  4. Large Language Models and Zero-Shot Knowledge Transfer for Multilingual Translation
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
