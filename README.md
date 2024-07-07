@@ -4,7 +4,7 @@
 
 ## Hi I'm Kenneth <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="12px" alt="hi">
 
-I'm Kenneth Zhang, A BCS student at the University of Waterloo.
+I'm Kenneth Zhang, A BMath CS student at the University of Waterloo.
 
 :mailbox: Reach out to me!
 [![Linkedin Badge](https://img.shields.io/badge/-Kenneth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethzhang04/) [![Mail Badge](https://img.shields.io/badge/-kzhang138-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kzhang138@gmail.com)[![](https://img.shields.io/badge/Google%20Scholar-blue?style=flat-square&logo=github&logoColor=white)](https://scholar.google.com/citations?user=zn76alwAAAAJ&hl=en)
