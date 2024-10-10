@@ -13,8 +13,8 @@ I'm Kenneth Zhang, A BMath CS student at the University of Waterloo.
 - Email: kzhang138@gmail.com
 - Research Focuses:
   1. Options Pricing and Volatility Modelling
-  2. Time-Series Analysis and ML-Driven Indicator Engineering
-  3. Fixed-Income Securities Modelling
+  2. Statistical Arbitrage Strategies and Simulation Techniques
+  3. Time-Series Analysis and ML-Driven Indicator Engineering
   4. Large Language Models and Zero-Shot Knowledge Transfer for Multilingual Translation
 
 ### Languages and Tools
