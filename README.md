@@ -15,7 +15,6 @@ I'm Kenneth Zhang, A BMath CS student at the University of Waterloo.
   1. Options Pricing and Volatility Modelling
   2. Statistical Arbitrage Strategies and Simulation Techniques
   3. Time-Series Analysis and ML-Driven Indicator Engineering
-  4. Large Language Models and Zero-Shot Knowledge Transfer for Multilingual Translation
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
