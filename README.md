@@ -9,7 +9,8 @@ I'm Kenneth Zhang, A BMath CS student at the University of Waterloo.
 :mailbox: Reach out to me!
 [![Linkedin Badge](https://img.shields.io/badge/-Kenneth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethzhang04/) [![Mail Badge](https://img.shields.io/badge/-kzhang138-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kzhang138@gmail.com)[![](https://img.shields.io/badge/Google%20Scholar-blue?style=flat-square&logo=github&logoColor=white)](https://scholar.google.com/citations?user=zn76alwAAAAJ&hl=en)
 
-- Current Position: Quant @ Rothschild & Co.
+- Incoming Quantitative Researcher @ Citadel LLC
+- Previous Position: Quant @ Rothschild & Co.
 - Email: kzhang138@gmail.com
 - Research Focuses:
   1. Options Pricing and Volatility Modelling
