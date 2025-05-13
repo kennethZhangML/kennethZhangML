@@ -9,12 +9,11 @@ I'm Kenneth Zhang, A BMath CS student at the University of Waterloo.
 :mailbox: Reach out to me!
 [![Linkedin Badge](https://img.shields.io/badge/-Kenneth-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kennethzhang04/) [![Mail Badge](https://img.shields.io/badge/-kzhang138-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kzhang138@gmail.com)[![](https://img.shields.io/badge/Google%20Scholar-blue?style=flat-square&logo=github&logoColor=white)](https://scholar.google.com/citations?user=zn76alwAAAAJ&hl=en)
 
-- Quantitative Researcher @ Squarepoint Capital
-- Previous Position: Quant Engineer @ Rothschild & Co.
+- Previous Experiences: Quant Researcher @ Squarepoint Capital, Quant Dev @ Rothschild & Co. 
 - Email: kzhang138@gmail.com
 - Research Focuses:
   1. Options Pricing and Volatility Modelling
-  2. Statistical Arbitrage Strategies and Simulation Techniques
+  2. High-Frequency Data Engineering and Ingestion
   3. Time-Series Analysis and ML-Driven Indicator Engineering
 
 ### Languages and Tools
